@@ -10,7 +10,7 @@ The server hardware features a robust CPU processor and 128GB of memory. It oper
 
 ### Scope
 
-The scope of this vulnerability assessment focuses on the current access controls of the system. The assessment spans a three-month period, from June 2024 to August 2024. NIST SP 800-30 Rev. 1 is used to guide the risk analysis of the information system.
+The scope of this vulnerability assessment focuses on the current access controls of the system. The assessment spans a three-month period, from June 2024 to August 2024. [NIST SP 800-30 Rev. 1](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) is used to guide the risk analysis of the information system.
 
 ### Purpose
 
